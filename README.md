@@ -6,4 +6,5 @@ These are the files from the Unreal working directory.
 
 ## Lecture List
 * BT01 Intro, Notes & Assets
-* BT02 Game Design Document (GDD) etc...
+* BT02 Game Design Document (GDD)
+* BT04 Setting up a GitHub Repo etc ...
